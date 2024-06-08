@@ -2,14 +2,14 @@
 
 **Pokefier:** The **Best Free AI-Powered PokéTwo Autocatcher**!
 
-**Ditch the Poketwo Grind!** Pokefier automates catching Pokémon, letting you focus on the fun
+**Ditch the Poketwo Grind!** Pokefier automates catching Pokémon, letting you focus on the fun.
 
 **Features**
 
 * **Unmatched AI:** Pokefier's cutting-edge AI analyzes encounters and attempts to catch Pokémon with exceptional accuracy.
 * **Free Captcha Solver:** Stop wasting money on captcha solutions! Pokefier’s free tool handles them quickly and efficiently.
 * **Effortless Integration:** Works seamlessly with the PokéTwo bot, enhancing your experience without hassle.
-* more
+* **more stuff**
 
 **Getting Started**
 
